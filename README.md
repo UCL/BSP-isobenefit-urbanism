@@ -1,5 +1,11 @@
 # BSP Isobenefit Urbanism Website
 
+> [!WARNING]
+> **This repository is archived.** The website has been consolidated into the
+> plugin repository and is no longer maintained here. Please refer to
+> [UCL/BSP-isobenefit-qgis-plugin](https://github.com/UCL/BSP-isobenefit-qgis-plugin)
+> instead.
+
 ## Overview
 
 This repo contains the code for the BSP Isobenefit Urbanism website [BSP-isobenefit-urbanism](https://github-pages.ucl.ac.uk/BSP-isobenefit-urbanism).
